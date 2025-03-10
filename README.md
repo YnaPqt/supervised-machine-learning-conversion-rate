@@ -32,7 +32,3 @@ To complete this project, your team should:
 - Make at least one submission to the leaderboard 
 - Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future
 
-
-## Helpers 🦮
-
-To help you with the methodology, we created a template (**02-Conversion_rate_challenge_template.ipynb**) in which all the training/predictions steps are implemented for a very basic model (logistic regression with only one variable). Please use this template and feel free to change the EDA/preprocessing/training steps ! May the force be with you 🧨🧨 
